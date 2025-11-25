@@ -1,4 +1,4 @@
-package org.me.gcu.cw_currency.model;
+package org.me.gcu.aslam_muhammad_s2237718.model;
 
 public class CurrencyRate {
     private String code;

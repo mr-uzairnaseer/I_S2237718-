@@ -1,4 +1,4 @@
-package org.me.gcu.cw_currency;
+package org.me.gcu.aslam_muhammad_s2237718;
 
 import android.os.Bundle;
 import android.view.View;
@@ -13,10 +13,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import org.me.gcu.cw_currency.model.CurrencyRate;
-import org.me.gcu.cw_currency.ui.ConversionDialogFragment;
-import org.me.gcu.cw_currency.ui.ExchangeViewModel;
-import org.me.gcu.cw_currency.util.CurrencyFlagMapper;
+import org.me.gcu.aslam_muhammad_s2237718.model.CurrencyRate;
+import org.me.gcu.aslam_muhammad_s2237718.ui.ConversionDialogFragment;
+import org.me.gcu.aslam_muhammad_s2237718.ui.ExchangeViewModel;
+import org.me.gcu.aslam_muhammad_s2237718.util.CurrencyFlagMapper;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
